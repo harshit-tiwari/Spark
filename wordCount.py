@@ -1,5 +1,5 @@
 #A Spark script in python to display the wordcount of the input file 
-#Save thsi file as wordcount.py and then use the following command to run it
+#Save this file as wordcount.py and then use the following command to run it
 # spark-submit --master local wordcount.py to run in local mode or
 # spark-submit --master yarn wordcount.py to run in yarn mode or
 
